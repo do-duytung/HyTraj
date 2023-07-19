@@ -1,5 +1,5 @@
 matplotlib==3.2.1
-sklearn
+scikit-learn
 PyWavelets
 pyclustering
 fastcluster
